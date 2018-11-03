@@ -3,8 +3,6 @@ Here a neural network is designed to showcase the working methodology of a simpl
 
 First we will start by discussing the concept of Machine Learning because neural nets are the core feature of Deep Learning that is a sub field of Machine Learning.
 
-![Test Image 4](https://github.com/MuhammadUsmanTahir10/Basic-Neural_Network/NN1.png)
-
 So Whats is Machine Learning?
 
 # Machine Learning:
